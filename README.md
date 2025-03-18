@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+🔭 I’m currently a PhD student in Santiago de Compostela, Spain.
+😄 Pronouns: she/her
 <!--
 **gxifrag/gxifrag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
